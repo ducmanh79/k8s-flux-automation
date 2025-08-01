@@ -1,7 +1,0 @@
-config:
-  pulumi-k8s:git-username:
-    secure: AAABAIxr/1zjeYUVP/X2Vn2VNTC27ETDU6avjM+MkLvqJ2BWSyUjABg=
-  pulumi-k8s:git-password:
-    secure: AAABAHTFvLIfhNMAwmzwNS0X5CEzQzOOvHfzQQrHGY+KVXiAJAMBha8kzlT+ZfLSjhhL/lXA1bd2/HyUtGSwAEhXagxvFGeJ
-  pulumi-k8s:github-token:
-    secure: AAABAJu/Y0485pKYvoQtZxHwCjdr1IvzJhncIzpdjszNcLfniSxu5+o1Bmvkp0sBRTYOO3y5cRhqtw1MeEAwpbBpeIcPaqhRBaaDO33cE91+LaSVowoX7b/fz97NgvV2qYtEictleWRr9yiPnEICOWOwRBGDbHK+JgXWQW8=
