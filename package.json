@@ -1,0 +1,18 @@
+{
+    "name": "pulumi-k8s",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^6.83.0",
+        "@pulumi/awsx": "^3.0.0",
+        "@pulumi/eks": "^3.9.1",
+        "@pulumi/github": "^6.7.3",
+        "@pulumi/kubernetes": "^4.0.0",
+        "@pulumi/pulumi": "^3.113.0",
+        "@pulumi/tls": "^5.2.1",
+        "@worawat/flux": "^1.0.1"
+    }
+}
